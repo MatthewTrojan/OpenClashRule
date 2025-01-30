@@ -12,3 +12,5 @@ DOMAIN-SUFFIX,arduino.cc
 DOMAIN-SUFFIX,dmhy.org
 # Google 相关
 DOMAIN-SUFFIX,mtalk.google.com
+
+DOMAIN-SUFFIX,ipify.org
