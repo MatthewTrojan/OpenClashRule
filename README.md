@@ -1,2 +1,2 @@
 # Bright
-### 自用OpenClash订阅模板
+### 自用OpenClash订阅转换模板
